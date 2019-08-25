@@ -17,7 +17,7 @@
     },
     {
         "id": 2,
-        "Hospital": "Manipal Whitefield",
+        "Hospital": "Manipal Indranagar",
         "Address1": "143, 212-2015 KR Puram Hobli, Off Hoodi Village",
         "Address2": "EPIP, Industrial Area, Whitefield",
         "City": "Bengaluru",
@@ -32,7 +32,7 @@
     },
     {
         "id": 3,
-        "Hospital": "Narayana Whitefield",
+        "Hospital": "Narayana Electronic City",
         "Address1": "Plot No. 3&4, ITPL Main Road Opp to ITPL Main Gate",
         "Address2": "Sadaramangala Industrial Area, Whitefield",
         "City": "Bengaluru",
