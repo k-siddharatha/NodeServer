@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "light": [
+      {
+        "tlid": "l1",
+        "latitude": "12.9923",
+        "longitude": "77.7161",
+        "status": "G"
+      },
+      {
+        "tlid": "l2",
+        "latitude": "12.996815",
+        "longitude": "77.669175",
+        "status": "R"
+      },
+      {
+        "tlid": "l3",
+        "latitude": "12.987281",
+        "longitude": "77.648651",
+        "status": "R"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "light": [
+      {
+        "tlid": "l1",
+        "latitude": "12.8787878",
+        "longitude": "77.6106173",
+        "status": "R"
+      },
+      {
+        "tlid": "l2",
+        "latitude": "12.5353535",
+        "longitude": "77.2323234",
+        "status": "R"
+      },
+      {
+        "tlid": "l3",
+        "latitude": "12.2323234",
+        "longitude": "77.1313134",
+        "status": "R"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "light": [
+      {
+        "tlid": "l1",
+        "latitude": "12.7869266",
+        "longitude": "77.5106173",
+        "status": "G"
+      },
+      {
+        "tlid": "l2",
+        "latitude": "12.6868687",
+        "longitude": "77.4141412",
+        "status": "G"
+      },
+      {
+        "tlid": "l3",
+        "latitude": "12.5858589",
+        "longitude": "77.3131312",
+        "status": "G"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+    "light": [
+      {
+        "tlid": "l1",
+        "latitude": "12.962418",
+        "longitude": "77.594798",
+        "status": "G"
+      },
+      {
+        "tlid": "l2",
+        "latitude": "12.946452",
+        "longitude": "77.594927",
+        "status": "R"
+      },
+      {
+        "tlid": "l3",
+        "latitude": "12.916810",
+        "longitude": "77.599800",
+        "status": "R"
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "uniqueId": "12345",
+    "deviceName": "anurag",
+    "email": "anurag.aggarwal@augmentolabs.com",
+    "password": "anurag",
+    "businessName": "BrookField",
+    "createdAt": "Mon Aug 5 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 5 2019 15:16:17 GMT+0200 (CEST)"
+  },
+  {
+    "id": 2,
+    "uniqueId": "123456",
+    "deviceName": "sid",
+    "email": "siddhartha@augmentolabs.com",
+    "password": "sid123",
+    "businessName": "Manipal",
+    "createdAt": "Mon Aug 5 2019 15:16:17 GMT+0200 (CEST)",
+    "updatedAt": "Mon Aug 5 2019 15:16:17 GMT+0200 (CEST)"
+  },
+  {
+    "id": 3,
+    "uniqueId": "123458",
+    "deviceName": "advay",
+    "email": "anuraga@augmentolabs.com",
+    "password": "anurag",
+    "businessName": "Narayana",
+    "createdAt": "Fri Aug 09 2019 23:45:19 GMT+0530 (India Standard Time)",
+    "updatedAt": "Fri Aug 09 2019 23:45:19 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 4,
+    "uniqueId": "1234581",
+    "deviceName": "advay1",
+    "email": "anuraga@augmentolabs1.com",
+    "password": "anurag1",
+    "businessName": "Narayana1",
+    "createdAt": "Sat Aug 10 2019 13:02:05 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sat Aug 10 2019 13:02:05 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 5,
+    "uniqueId": "7234581",
+    "deviceName": "1advay1",
+    "email": "2anuraga@augmentolabs1.com",
+    "password": "anurag2",
+    "businessName": "Narayana2",
+    "createdAt": "Sat Aug 10 2019 16:11:10 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sat Aug 10 2019 16:11:10 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 6,
+    "uniqueId": "7234583",
+    "deviceName": "1advay3",
+    "email": "2anuraga@augmentolabs3.com",
+    "password": "anurag3",
+    "businessName": "Narayana3",
+    "createdAt": "Sat Aug 10 2019 16:11:53 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sat Aug 10 2019 16:11:53 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 7,
+    "uniqueId": "7234583",
+    "deviceName": "1advay3",
+    "email": "abc@abc.com",
+    "password": "abcde",
+    "businessName": "Narayana3",
+    "createdAt": "Sat Aug 10 2019 16:11:53 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sat Aug 10 2019 16:11:53 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 8,
+    "deviceName": "Device",
+    "uniqueId": 12688,
+    "email": "this@e.com",
+    "password": "123456",
+    "businessName": "Amb",
+    "createdAt": "Sun Aug 18 2019 00:02:03 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sun Aug 18 2019 00:02:03 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 9,
+    "deviceName": "Device",
+    "uniqueId": 64527,
+    "email": "email@fi.com",
+    "password": "12345",
+    "businessName": "Ambulance",
+    "createdAt": "Sun Aug 18 2019 00:06:55 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sun Aug 18 2019 00:06:55 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 10,
+    "deviceName": "Abcd",
+    "uniqueId": 57048,
+    "email": "abcd@abc.com",
+    "password": "12345",
+    "businessName": "Abcd",
+    "createdAt": "Sun Aug 18 2019 00:11:19 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sun Aug 18 2019 00:11:19 GMT+0530 (India Standard Time)"
+  },
+  {
+    "id": 11,
+    "deviceName": "Dev",
+    "uniqueId": 30403,
+    "email": "e@c.cn",
+    "password": "12345",
+    "businessName": "Amb",
+    "createdAt": "Sun Aug 18 2019 00:14:59 GMT+0530 (India Standard Time)",
+    "updatedAt": "Sun Aug 18 2019 00:14:59 GMT+0530 (India Standard Time)"
+  }
+]
