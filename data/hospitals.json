@@ -10,8 +10,8 @@
         "PinCode":"560037",
         "TrafficLightID":"1",
         "GoogleNavigationURL":"https://goo.gl/maps/F8mX2qFbsZzhki1N6",
-        "Latitude":"12.9869266",
-        "Longitude":"77.7106173",
+        "Latitude":"12.967346",
+        "Longitude":"77.716852",
         "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
         "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
     },
@@ -25,8 +25,8 @@
         "PinCode":"560066",
         "TrafficLightID":"2",
         "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
-        "Latitude":"12.9847543",
-        "Longitude":"77.7100709",
+        "Latitude":"12.958851",
+        "Longitude":"77.649008",
         "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
         "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
     },
@@ -40,8 +40,8 @@
         "PinCode":"560066",
         "TrafficLightID":"3",
         "GoogleNavigationURL":"https://goo.gl/maps/iNm3V9v5BN5J2PFU6",
-        "Latitude":"12.984754",
-        "Longitude":"77.7100709",
+        "Latitude":"12.851140",
+        "Longitude":"77.658780",
         "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
         "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
     },
