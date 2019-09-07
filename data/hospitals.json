@@ -59,6 +59,50 @@
         "Longitude":"77.599532",
         "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
         "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
+    },{
+        "id": 5,
+        "Hospital": "Fortis Bannerghatta",
+        "Address1": "154, 11, Bannerghatta Main Rd",
+        "Address2": " Krishnaraju Layout, Amalodbhavi Nagar, Panduranga Nagar",
+        "City": "Bengaluru",
+        "State":"Karnataka",
+        "PinCode":"560066",
+        "TrafficLightID":"5",
+        "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
+        "Latitude":"12.894608",
+        "Longitude":"77.598727",
+        "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
+    },
+	{
+        "id": 6,
+        "Hospital": "Jayadeva Jayanagara 9th Block",
+        "Address1": "154, 11, Bannerghatta Main Rd",
+        "Address2": " Krishnaraju Layout, Amalodbhavi Nagar, Panduranga Nagar",
+        "City": "Bengaluru",
+        "State":"Karnataka",
+        "PinCode":"560066",
+        "TrafficLightID":"6",
+        "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
+        "Latitude":"12.918033",
+        "Longitude":"77.599246",
+        "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
+    },
+	{
+        "id": 7,
+        "Hospital": "Manipal Jayanagar",
+        "Address1": "154, 11, Bannerghatta Main Rd",
+        "Address2": " Krishnaraju Layout, Amalodbhavi Nagar, Panduranga Nagar",
+        "City": "Bengaluru",
+        "State":"Karnataka",
+        "PinCode":"560066",
+        "TrafficLightID":"7",
+        "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
+        "Latitude":"12.917120",
+        "Longitude":"77.591783",
+        "createdAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
     }
 ]
 }
