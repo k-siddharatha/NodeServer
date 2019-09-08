@@ -134,6 +134,21 @@
          "Longitude":"77.599496",
          "createdAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
          "updatedAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
+      },
+      {
+         "id":10,
+         "Hospital":"Sri Lakshmi Super Hospital",
+         "Address1":"154, 11, Bannerghatta Main Rd",
+         "Address2":" Krishnaraju Layout, Amalodbhavi Nagar, Panduranga Nagar",
+         "City":"Bengaluru",
+         "State":"Karnataka",
+         "PinCode":"560066",
+         "TrafficLightID":"9",
+         "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
+         "Latitude":"12.982559",
+         "Longitude":"77.68137",
+         "createdAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
+         "updatedAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
       }
    ]
 }
