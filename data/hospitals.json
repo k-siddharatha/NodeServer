@@ -107,7 +107,7 @@
       },
       {
          "id":8,
-         "Hospital":"Mallya Hospital, Vittal Mallya Rd",
+         "Hospital":"Manipal Hospital, Whitefield",
          "Address1":"154, 11, Bannerghatta Main Rd",
          "Address2":" Krishnaraju Layout, Amalodbhavi Nagar, Panduranga Nagar",
          "City":"Bengaluru",
@@ -115,8 +115,8 @@
          "PinCode":"560066",
          "TrafficLightID":"8",
          "GoogleNavigationURL":"https://goo.gl/maps/kSmo2vsbQmUAPQ938",
-         "Latitude":"12.967962",
-         "Longitude":"77.595098",
+         "Latitude":"12.988497",
+         "Longitude":"77.728660",
          "createdAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)",
          "updatedAt":"Mon Aug 10 2019 15:16:17 GMT+0200 (CEST)"
       },
